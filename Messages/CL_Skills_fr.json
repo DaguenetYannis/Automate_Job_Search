@@ -1,0 +1,92 @@
+[
+    {
+        "Skill": "Opening Line Data Analyst",
+        "Paragraph": "Titulaire d’une licence en sciences politiques et économiques de l’Institut Catholique de Paris, d’un master en affaires européennes de l’Université de Maastricht et récemment diplômé en économie internationale et développement de l’Université Paris Dauphine, je vous adresse ma candidature pour le poste de Data Analyst."
+    },
+    {
+        "Skill": "Data Analysis through econometrics",
+        "Paragraph": "Ma formation en économétrie, complétée par une certification HarvardX en data analysis, m’a permis de développer des compétences techniques solides en analyse de données (R, Python) et en automatisation. Lors de mon mémoire à Dauphine, j’ai travaillé sur des bases de données volumineuses du commerce international et analysé l’émergence de secteurs industriels verts à travers des modèles d’économie de la complexité. Cette expérience m’a permis de structurer des données non homogènes et de produire des modélisations statistiques avancées."
+    },
+    {
+        "Skill": "Data Analysis through Greenly",
+        "Paragraph": "Ces compétences se sont enrichies lors de mon stage chez Greenly. J’y ai automatisé des workflows de nettoyage et de structuration de données ESG dans Google Sheets à l’aide d’Apps Script, traité de larges jeux de données logistiques avec Python, et partagé ces outils avec les analystes pour fluidifier les livrables. J’ai également utilisé DataGrip et BigQuery pour extraire, croiser ou filtrer des informations précises depuis nos bases de données internes."
+    },
+    {
+        "Skill": "Project Management through Greenly",
+        "Paragraph": "Cette expertise technique s’appuie sur une solide expérience de gestion de projets dans un cadre international. Chez Greenly, j’ai été amené à gérer 5 à 6 analyses clients par semaine tout en menant des projets internes d’automatisation. Dans un environnement structuré autour d’une gestion par tâches, j’ai appris à prioriser efficacement et à communiquer avec fluidité via Slack avec les équipes produit et opérations, afin de respecter les délais et maintenir la qualité des livrables. "
+    },
+    {
+        "Skill": "Project Management through Volt Europa",
+        "Paragraph": "En tant que coordinateur politique chez Volt Europa, j’ai également dirigé une équipe de 17 membres pour concevoir un programme législatif national en lien avec des partenaires européens. Ce rôle a renforcé mes compétences en gestion d’équipe et en communication interculturelle — essentielles pour piloter des projets structurants dans des environnements dynamiques et multiculturels."
+    },
+    {
+        "Skill": "SQL through Greenly",
+        "Paragraph": "Au cours de mon stage en data analyse chez Greenly, j’ai développé une solide maîtrise de SQL, que j’ai utilisé quotidiennement pour extraire et filtrer des facteurs d’émissions à partir de vastes bases de données internes. Travaillant d’abord sur BigQuery, puis sur une base PostgreSQL via VSCode, j’ai navigué dans plusieurs centaines de milliers de lignes de données, en construisant des requêtes complexes pour isoler les facteurs pertinents selon les catégories d’achats ou les activités des clients. Ces extractions me permettaient ensuite de réaliser des analyses précises de leurs émissions carbone."
+    },
+    {
+        "Skill": "R through econometrics",
+        "Paragraph": "Durant mon Master en économie internationale et du développement à Paris Dauphine, j’ai largement utilisé R pour mener des analyses économétriques, construire des modèles statistiques, visualiser des résultats complexes et appliquer des techniques de machine learning. Je suis à l’aise avec un large éventail de packages (notamment tidyverse, ggplot2, dplyr, plm, caret) et j’ai automatisé des rapports complets en R Markdown. Un exemple marquant est une étude comparative des effets des confinements sur la mobilité à Paris et à Séoul, dans laquelle j’ai mobilisé une méthode de différence en différences pour évaluer l’impact des restrictions sur les émissions de GES, utilisées comme proxy de l’activité économique. Cette analyse m’a permis de combiner traitement de données journalières, modélisation et visualisation dans un cadre rigoureux."
+    },    {
+        "Skill": "Python through academic research",
+        "Paragraph": "Dans le cadre de mon mémoire de Master à Paris Dauphine, j’ai utilisé Python pour modéliser des dynamiques économiques complexes liées à la transition écologique. J’ai mobilisé des modèles à agents et des matrices input-output afin de simuler l’émergence de secteurs verts dans différents contextes nationaux. Ce travail m’a permis de combiner des approches de complexité économique avec des outils de simulation en Python, en structurant des scénarios politiques intégrant des dimensions économiques et environnementales. Cette expérience a renforcé ma capacité à traiter des systèmes multi-niveaux et à articuler analyse théorique et modélisation computationnelle."
+    },    {
+        "Skill": "Python through Greenly",
+        "Paragraph": "Chez Greenly, j’ai utilisé Python pour automatiser des processus analytiques et améliorer la gestion de données environnementales. J’ai créé des scripts pour nettoyer et fusionner des fichiers Excel à grande échelle, calculer automatiquement des distances de transport via l’API Google Maps dans le cadre des analyses de fret, et catégoriser des achats à l’aide de dictionnaires personnalisés. Python m’a ainsi permis de fluidifier des workflows complexes, de réduire le temps de traitement et d’augmenter la fiabilité des livrables."
+    },    
+    {
+        "Skill": "Python through App Dev",
+        "Paragraph": "Dans un projet personnel, je développe une application d’apprentissage du coréen en Python. Cette application extrait des textes depuis Wikipédia, les lemmatise, puis propose une lecture guidée et adaptée au niveau lexical de l’utilisateur. L’objectif est de permettre une immersion progressive dans des textes natifs tout en consolidant le vocabulaire. Ce projet mobilise à la fois des compétences en traitement automatique de la langue (NLP), en scraping et en développement d’interfaces."
+    },    
+    {
+        "Skill": "Stata",
+        "Paragraph": "J’ai utilisé Stata de manière approfondie dans le cadre de mes études d’économétrie à l’Université Paris Dauphine, où j’ai mené plusieurs analyses empiriques avancées. J’ai travaillé sur des données de panel, transversales et temporelles, en mobilisant des méthodes telles que les régressions, la différence en différences, les modèles de panel ou encore des tests statistiques robustes. Un exemple marquant est une étude sur la résilience commerciale de la zone euro après la crise de 2008, où j’ai utilisé une équation gravitationnelle structurée et un modèle de différence en différences pour évaluer si l’adhésion à la zone euro a atténué les effets de la crise sur le commerce. Cette expérience m’a permis de développer une solide capacité à structurer des do-files, nettoyer les données, automatiser les traitements et produire des visualisations claires pour accompagner l’interprétation des résultats."
+    },    
+    {
+        "Skill": "Git",
+        "Paragraph": "J’utilise Git régulièrement dans mes projets personnels et professionnels pour assurer un suivi rigoureux des modifications et faciliter la collaboration. Dans mes projets personnels, notamment le développement de mon application d’apprentissage du coréen, Git me permet de synchroniser mon travail entre plusieurs machines via VSCode, tout en conservant un historique clair de mes évolutions. En entreprise, chez Greenly, j’utilise Git dans le cadre de travaux d’analyse du fret menés en équipe. Nous versionnons nos scripts d’analyse et mettons à jour progressivement les données selon les clients, en veillant à maintenir une bonne coordination sur les dépôts partagés. Cette expérience m’a permis de renforcer ma rigueur dans la gestion de versions et la collaboration sur des bases de code vivantes."
+    },    
+    {
+        "Skill": "Javascript",
+        "Paragraph": "J’utilise JavaScript principalement à travers Google Apps Script, dans un cadre d’automatisation et de création d’outils personnalisés sur Google Sheets. Chez Greenly, j’ai conçu plusieurs templates avancés d’analyse carbone qui facilitent et fiabilisent le travail des analystes. Par exemple, j’ai développé des scripts capables de traiter des données de recyclage complexes en découpant les colonnes selon les pourcentages de matière recyclée, de gérer des compositions multi-matériaux, de détecter automatiquement les erreurs, et de générer des alertes. J’ai également intégré des boutons d’action pour permettre une utilisation simplifiée par des analystes externes. Ces outils ont permis de gagner un temps précieux tout en standardisant les analyses réalisées pour nos clients."
+    },    
+    {
+        "Skill": "Google Sheet & Excel",
+        "Paragraph": "J’utilise Google Sheets et Excel dans un cadre professionnel exigeant, principalement chez Greenly pour mes analyses carbone. Je mobilise des fonctions avancées comme les tableaux croisés dynamiques, les formules imbriquées complexes (LET, BYROW, LAMBDA…), ainsi que des systèmes d’automatisation et de validation de données. J’ai notamment conçu un outil sur Google Sheets destiné à accélérer la recherche de facteurs d’émission. Grâce à un ensemble de filtres dynamiques et de suggestions automatiques, il permet aux analystes d’identifier rapidement les facteurs les plus pertinents, en contournant les limites de performance de notre plateforme interne. Cet outil collaboratif a été adopté par plusieurs analystes, améliorant nettement l’efficacité des traitements."
+    },    
+    {
+        "Skill": "KPI (Greenly)",
+        "Paragraph": "Dans le cadre de mon stage chez Greenly, j’ai été amené à créer des indicateurs clés de performance (KPI) environnementaux à partir des données d’achat et de production de nos clients. Je construis notamment des KPI comparant les évolutions annuelles des émissions de CO₂ à celles du poids des produits ou matières, permettant d’identifier des progrès ou des tensions environnementales. Ces indicateurs sont intégrés aux rapports d’analyse carbone et présentés directement aux clients lors des réunions de restitution. Je suis ainsi chargé de vulgariser les résultats, d’en expliquer la méthodologie, et de les accompagner dans l’interprétation via des supports visuels clairs et orientés action."
+    },    
+    {
+        "Skill": "Data structuring & cleaning",
+        "Paragraph": "Une part essentielle de mon travail chez Greenly consiste à structurer et nettoyer des données complexes, notamment issues des achats, du transport ou du recyclage. J’utilise des outils variés comme Python, Google Sheets, Excel et Google Apps Script pour transformer des fichiers bruts en formats analytiques fiables. J’ai notamment développé des scripts capables de découper des colonnes multi-matériaux selon leurs proportions ou pourcentages recyclés, d’harmoniser les noms de catégories, ou encore d’automatiser le traitement de bases de données Excel volumineuses. Ce travail de structuration est indispensable pour garantir la qualité des analyses carbone livrées aux clients."
+    },    
+    {
+        "Skill": "Workflow automation",
+        "Paragraph": "J’ai automatisé plusieurs workflows d’analyse de données chez Greenly afin de réduire les tâches manuelles répétitives et fiabiliser les livrables. À l’aide de Python et Google Apps Script, j’ai conçu des scripts capables de traiter automatiquement des fichiers Excel volumineux, d’extraire des informations pertinentes, d’appeler des APIs (notamment Google Maps pour calculer des distances de fret), ou encore de générer des fichiers nettoyés prêts à l’analyse. J’ai également intégré des boutons et systèmes d’alerte dans Google Sheets pour faciliter l’usage de ces outils par les analystes. Ces automatisations ont permis de gagner un temps précieux à chaque nouvelle mission tout en standardisant les analyses."
+    },    
+    {
+        "Skill": "GHG Reporting",
+        "Paragraph": "Chez Greenly, j’ai contribué à la production de rapports ESG en réalisant des analyses détaillées des émissions de gaz à effet de serre (scope 1, 2 et 3), en particulier dans le secteur des achats et du transport. Je m’appuie sur les référentiels du GHG Protocol, du BEGES, et des méthodologies de la SBTi, que j’intègre dans mes analyses. Lors des restitutions clients, j’explique la méthodologie suivie et les hypothèses prises, afin d’assurer la transparence et la compréhension des résultats. En parallèle, j’ai rédigé des pages Notion à destination des autres analystes de Greenly, notamment pour les guider dans l’utilisation des outils SBTi (en particulier les SDA récents), facilitant ainsi le transfert de connaissances en interne."
+    },    
+    {
+        "Skill": "Teamwork",
+        "Paragraph": "Chez Greenly, j’ai travaillé en étroite collaboration avec d’autres analystes, notamment sur les analyses de fret. Nous partagions des scripts via Git et nous synchronisions régulièrement pour adapter les outils aux besoins des projets clients. J’ai aussi développé des outils que j’ai partagés avec l’équipe, comme des scripts d’analyse ou des modèles Sheets, tout en créant de la documentation claire sur Notion pour en faciliter l’usage. Cette approche collaborative m’a permis de renforcer ma capacité à contribuer activement à une équipe tout en structurant des outils mutualisables."
+    },    
+    {
+        "Skill": "Responsiveness",
+        "Paragraph": "La réactivité fait partie intégrante de ma manière de travailler. Chez Greenly, j’ai souvent identifié des blocages dans les processus d’analyse — comme la lenteur de certains outils internes — et proposé rapidement des solutions concrètes. J’ai par exemple conçu un outil Google Sheets permettant de suggérer des facteurs d’émission en temps réel, ce qui a considérablement accéléré le travail des analystes. J’interviens également dès qu’un collègue rencontre un blocage technique, en partageant des scripts, en construisant des modèles réutilisables, ou en rédigeant des guides. Cette capacité à réagir vite et à proposer des solutions opérationnelles a eu un impact direct sur notre efficacité collective."
+    },    
+    {
+        "Skill": "Autonomie",
+        "Paragraph": "J’accorde une grande importance à l’autonomie dans mon travail. Chez Greenly, j’ai régulièrement mené des analyses complexes en toute autonomie, notamment sur des sujets techniques comme les données de fret ou les compositions multi-matériaux. J’ai également conçu des outils d’automatisation et d’analyse sans supervision directe, tout en anticipant les besoins des autres analystes. En parallèle, je développe un projet personnel — une application d’apprentissage du coréen — que je code seul en Python, en concevant aussi bien les algorithmes que l’interface. Cette capacité à avancer de manière autonome me permet d’être rapidement opérationnel tout en restant proactif dans l’amélioration des outils et des méthodes."
+    },    
+    {
+        "Skill": "Agile environment",
+        "Paragraph": "Je suis habitué à évoluer dans un environnement agile, où l’adaptation rapide et l’amélioration continue sont essentielles. Chez Greenly, je travaille en interaction constante avec les besoins changeants des clients et les retours des analystes. Les outils que je conçois (scripts d’analyse, modèles Sheets, automatisations) sont pensés pour être flexibles, évolutifs et régulièrement mis à jour en fonction des usages terrain. Chaque projet est aussi l’occasion d’itérer rapidement entre analyse, retour utilisateur et amélioration technique. Cette logique agile me permet de livrer des solutions efficaces, même dans des contextes mouvants."
+    },    
+    {
+        "Skill": "Facing client",
+        "Paragraph": "Chez Greenly, j’interagis régulièrement avec les clients dans le cadre des restitutions d’analyses carbone. Je suis en charge de présenter les résultats, d’expliquer la méthodologie employée (GHG Protocol, SBTi, BEGES) et d’accompagner les clients dans l’interprétation de leurs indicateurs, comme l’évolution des émissions ou les progrès en matière de recyclage. Je veille à ce que les résultats soient à la fois rigoureux sur le plan technique et accessibles pour des interlocuteurs non spécialistes. Cette posture de conseil me permet de créer un lien de confiance et d’orienter les discussions vers des leviers d’action concrets."
+    }
+]

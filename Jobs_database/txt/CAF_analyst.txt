@@ -1,0 +1,59 @@
+CAF du Val D'oise
+DATA ANALYSTE H/F
+Cergy, Île-de-France, France
+32 €/h - 34 €/h
+https://www.linkedin.com/jobs/view/4226482441/?refId=d6b08f52-89d9-4493-8230-1c213bb3cb4e&trackingId=TdiTGf5pQ3CBHngKK%2FWlOA%3D%3D
+Analytique de données · Compétences analytiques · Compétences interpersonnelles · Connaissances en informatique · Python (langage de programmation) · SQL · Statistiques · Visualisation de données · Autonomie ·
+
+Rattaché(e) à la cellule d'appui au pilotage, le/la candidat(e) aura pour missions principales :
+
+ Réaliser des études statistiques, des requêtages ou des ciblages pour la Direction générale ou toute autre Direction de l'organisme ;
+ Élaborer des tableaux de bord sous Power BI en récupérant les données sous Databricks (ex : TDB pilotage de la performance de la Caf / indicateurs opposables) ;
+ Requêter des données à partir de programmation Python pour extraire des données de pilotage ;
+ Participer à la réalisation de diagnostics démographiques territoriaux afin d'éclairer la connaissance des services et de nos partenaires et réaliser des enquêtes de besoin sur le public allocataire ;
+ Analyser et cartographier les données dans le cadre de diagnostic de territoire (ex : évaluation des CTG) ;
+ Veiller à la maintenance d'outils de pilotage et de mesure de la performance des activités (tableaux de bord, automatisation de tâches…) ;
+ Réécrire et optimiser les requêtes/programmes liés aux principales activités de pilotage interne dans le cadre de la modernisation du système d'information décisionnel (SID).
+
+Exemples De Réalisations
+
+ Création d'un tableau de bord de suivi d'activité (avec Power BI) à destination des managers et des agents, automatisé et basé sur la construction d'indicateurs et de tables nettoyées via Python ;
+ Réalisation de cartographie (mapinfo, Power BI ou Python) ;
+ Automatisation des processus et des suivis (analyse quotidienne, hebdomadaire et mensuelle du stock) déjà existants et ainsi amélioration de l'expérience utilisateur.
+
+ Profil recherché
+
+ Vos compétences
+
+ Connaissance des outils Databricks, Power BI et langage SQL, Python, fortement appréciée ;
+ Bonne maitrise des outils informatiques ;
+ Capacités d'analyse et de synthèse ;
+ Capacité à gérer les priorités, à s'adapter et à faire preuve de réactivité ;
+ Être force de proposition, faire preuve d'initiative ;
+ Qualités relationnelles et capacité à travailler en équipe tout en étant autonome.
+
+ Informations complémentaires
+
+ ÉTAPES CLÉS DU RECRUTEMENT
+
+Les candidat(e)s intéressé(e)s devront envoyer un curriculum vitae accompagné d'une lettre de motivation via le lien indiqué ci-contre, et en informer leur responsable de branche, au plus tard le 02/06/.
+
+Le dispositif de sélection se fera à partir d'épreuves écrites et pratiques. Les candidat(e)s qui obtiendront la moyenne seront reçu(e)s en entretien.
+
+Dans le cadre de sa politique diversité, la CAF du Val-d'Oise étudie, à compétence égale, toutes candidatures. Des aménagements de poste sont possibles en cas de situation de handicap.
+
+ CONDITIONS PARTICULIÈRES
+
+ Une rémunération mensuelle calculée sur une base brute annuelle à partir de 28 ,78€ sur 14 mois (selon profil) ;
+ Une prime d'intéressement ;
+ Une participation aux frais de transport à hauteur de 75% ;
+ Des titres restaurants d'une valeur unitaire de 11,52€ dont 60% pris en charge par l'employeur ;
+ Une mutuelle et un régime de prévoyance ;
+ Un aménagement RTT jusqu'à 20 jours par an (en fonction de la durée hebdomadaire choisie) ;
+ Des horaires variables facilitant la conciliation vie professionnelle et vie privée, un accord de télétravail ;
+ Un environnement de travail agréable ;
+ Le bénéfice des œuvres sociales du comité social et économique.
+
+ Les avantages liés au poste
+
+Couverture santé, épargne et prévoyance, télétravail, congés, horaires, formation... Découvrez tout ce que propose la Sécurité sociale à ses salariés !

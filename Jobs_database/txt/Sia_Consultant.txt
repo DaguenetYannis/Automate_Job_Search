@@ -1,0 +1,54 @@
+Sia
+Consultant(e) Data Analyst
+Analytique de données · Apprentissage automatique · Python (langage de programmation) · SQL · Science des données · Statistiques · Visualisation · Visualisation de données · Extract, Transform, Load (ETL) · Informatique
+https://www.linkedin.com/jobs/view/4223301214/?refId=6f576728-ccc1-4448-acca-60b1fd99ce74&trackingId=MA%2FK5SUwRe%2B%2BV0xAqLYymg%3D%3D
+
+Sia Partners réinvente le métier du conseil et apporte un regard innovant et des résultats concrets à ses clients. Nous avons développé des solutions basées sur l’Intelligence Artificielle et le design pour augmenter l’impact de nos missions de conseil. Notre présence globale et notre expertise dans plus de 30 secteurs et services nous permettent d’accompagner nos clients dans le monde entier. A travers notre démarche "Consulting for Good", nous mettons notre expertise au service des objectifs RSE de nos clients et faisons du développement durable un levier de performance pour nos clients.
+
+
+
+
+Description du poste
+
+Pour accompagner son développement, Sia Partners recrute un(e) consultant(e) Data Analyst. 
+
+
+Au sein d’une équipe de consultants expérimentés et en plein essor, vous accompagnerez nos clients notamment sur les missions suivantes : 
+
+
+Echanger avec les différentes parties prenantes pour comprendre et définir les besoins métiers
+Se coordonner avec les intervenants techniques pour anticiper les risques
+Cartographier, acquérir et préparer les données en effectuant des vérifications de qualité, et en s’assurant de la cohérence
+Transformer la donnée et calculer des indicateurs afin d’interpréter et analyser les résultats
+Explorer les résultats des analyses en utilisant la Data Visualisation
+Concevoir, mettre en œuvre et développer des solutions de reporting, d'analyse de données ou de visualisation, notamment avec Power BI, Tableau, Dataiku, etc. 
+Dans le cadre des activités internes du cabinet, votre participation s’articule autour des axes suivants : 
+
+
+Le développement ou le renforcement de notre activité au travers de formations, de groupes de travail, de diffusion de support internes et externes... 
+La contribution au rayonnement du cabinet par le biais de publications (articles, études, etc.), et la participation à différents salons et événements
+Le développement commercial en contribuant à la définition des besoins et en participant aux actions commerciales
+
+Qualifications
+
+Formation de haut niveau (Bac +5) en université, école d'ingénieur ou de commerce, dans le domaine de la data
+Expérience initiale souhaitée en tant qu'analyste de données ou en visualisation de données 
+Solides connaissances en BI et Data Visualisation, incluant les concepts, méthodologies et outils pertinents 
+Expérience avec des outils BI tels que Tableau, Power BI, Qlik, etc. 
+Maîtrise de SQL et de Python pour la manipulation et l'analyse des données 
+Compréhension des techniques d'extraction, de transformation et de chargement des données (ETL), avec préférence pour une expérience avec des outils ETL (e.g. Dataiku) 
+Une expérience sur des plates-formes telles qu'Azure, Google Cloud Platform, AWS, est un atout
+Vous souhaitez vous impliquer et prendre rapidement des responsabilités sur des missions à forte valeur ajoutée au sein d’une structure dynamique et en croissance. 
+
+
+Vous êtes doté(e) d’une capacité à travailler en équipe, d’une ouverture d’esprit, d’un sens de l’analyse et vous souhaitez rejoindre un environnement professionnel motivant où vous partagerez nos valeurs que sont l’excellence, l’entrepreneuriat, l’innovation, la culture du partage, la bienveillance, l’équilibre vie personnelle / vie professionnelle. 
+
+
+Français, anglais professionnel courant indispensable.
+
+
+
+
+Informations supplémentaires
+
+Sia est un employeur qui souscrit au principe de l’égalité d’accès à l’emploi. Tous les aspects de l’emploi, tels que le recrutement, les promotions, la rémunération, ou les sanctions sont basés uniquement sur les performances, les compétences, et le comportement des employés ou les besoins de l’entreprise.

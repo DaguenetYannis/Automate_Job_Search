@@ -1,0 +1,55 @@
+Banque de France
+ANALYSTE DATA NUMÉRIQUE DURABLE - H/F - (ALT-5900) 
+stage
+https://www.linkedin.com/jobs/view/4214783881/?refId=21124fa0-e99d-4128-83d4-3e74c6ea724a&trackingId=vHQ4G1TETvOqXSMeqn7o%2Bg%3D%3D
+
+La Direction Générale du Système d'Information (DGSI) a pour rôle de concevoir et de mettre en oeuvre la stratégie informatique de la Banque de France. Elle veille à la mise à niveau de l'architecture informatique, à l'intégration de l'innovation, à la sécurité numérique de la Banque de France mais aussi à la bonne gestion de son patrimoine de données. La DGSI regroupe plus de 2 000 personnes (internes et externes) réparties sur différents sites, à Paris, Vincennes, Marne-la-Vallée, Paris La Courneuve et Poitiers.
+
+La Banque de France est engagée dans une démarche de numérique durable, à la fois plébiscitée par le personnel et entérinée sur le plan institutionnel. En effet, cette démarche résulte d'une approche visant à intégrer la transformation numérique dans une démarche vertueuse, respectueuse de l'empreinte environnementale. Afin de répondre à cet enjeu, des travaux de mesure d'empreinte environnementale du système d'information et des services numériques sont réalisés ainsi que des projections.
+
+Descriptif de mission
+
+Encadré(e) par votre tutrice et les équipes associées au projet d'amélioration continue de la mesure d'empreinte environnementale, vous développerez vos compétences en participant aux différentes phases des travaux d'analyse du cycle de vie (ACV) du système d'information de la Banque de France :
+
+Collecter et segmenter des données ;
+Analyser la qualité et le niveau de maturité des données afin d'identifier les causes racines et/ou des axes d'amélioration ;
+Identifier les correspondances avec les facteurs d'impacts potentiels disponibles ;
+Modéliser des études dans l'outil de calcul d'empreinte (Resilio) ;
+Mettre en place une méthodologie de contrôle de cohérence sur la typologie et le suivi dans le temps des équipements ;
+Analyser les impacts des changements méthodologiques et facteurs d'impacts ;
+Mettre à jour et faire évoluer la matrice de transposition des résultats dans le Bilan Gaz à Effet de Serre (BEGES) de la Banque de France ;
+Veille sur les pratiques en matière de Numérique Responsable: contribution aux travaux et réflexions inter entreprises (contribution et veille sur les groupes de travail tels que l'INR et le CRIP), amélioration des pratiques de coding responsable (ex: veille sur le Green coding, implémentation des bonnes pratiques et contrôle qualité), contribution à la formation des équipes projets ;
+Modéliser la projection de l'empreinte en intégrant les nouvelles tendances et la stratégie d'évolution du SI.
+
+
+Profil recherché
+
+Formation recherchée :
+
+Étudiant(e) en Master (BAC +5) spécialisé(e) en informatique, environnement ou développement durable, avec un intérêt marqué pour les enjeux du numérique durable.
+
+Compétences :
+
+Capacité à avoir une vue d'ensemble sur les différents aspects techniques et le matériel utilisé pour la gestion et la conception d'un système d'information.
+Maîtrise des outils bureautiques (Excel, etc.) et appétence pour l'analyse de données.
+Anglais niveau B1-B2 souhaité.
+
+
+Qualités :
+
+Bon relationnel et bonne communication
+Esprit d'équipe
+Organisation et rigueur
+Sens du service public
+Autonomie, fiabilité
+Sens de l'écoute et de l'analyse
+Discrétion et confidentialité
+
+
+ Cette offre de poste est soumise à des tests de présélection en ligne. Un lien vous sera adressé par mail dans les jours qui suivent votre inscription. 
+
+Contactez nos ambassadrices/ambassadeurs
+
+La Banque de France est une institution socialement responsable, attachée au respect de la diversité sous toutes ses formes, à la lutte contre les discriminations, à favoriser la parité Femme/Homme et à garantir un environnement de travail de qualité.
+
+Des aménagements de poste peuvent être organisés pour tenir compte des handicaps des personnes recrutées.

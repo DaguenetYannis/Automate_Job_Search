@@ -1,0 +1,56 @@
+AXA Assurance
+
+
+
+Au sein de la Direction Pilotage, Actuariat, dans le service Data Analytics & Performance, dans le pôle Sinistres Auto, Corporel, Recours et Fraude, nous recherchons un actuaire / data scientitst pour travailler dans le domaine des sinistres automobiles.
+
+Au quotidien, le rôle est de réaliser les demandes des directions 'métiers' sinistres auto opérationnelles (pas seulement).
+
+Vous disposez d’une grande richesse de données sur nos sinistres (données internes, de nos partenaires mais aussi externes/publiques) et de l’outil de votre choix pour les exploiter (SAS sous WPS, SQL, PowerBI, Python sur Datalake (PySpark)).
+
+En contact permanent avec les équipes Métiers, vous avez la garantie de mesurer au quotidien l’impact concret des études et des projets que vous menez à bien !
+
+Plus précisément, voici quelques-unes des activités du poste
+
+Définir les indicateurs pertinents pour maîtriser notre charge technique et permettre leur suivi dans le temps (construction de tableaux de bord et analyse) ainsi que leur impact final sur le ratio combiné;
+Modéliser et décorréler le coût de nos sinistres afin de calculer un gain unitaire sur chaque levier de maitrise des coûts;
+Accompagner et challenger les directions Sinistres dans les projets qu’elles souhaitent déployer sur leurs parcours estimer les gains des initiatives, anticiper les moyens pour les piloter et les impacts sur nos environnements de données;
+Intervenir régulièrement en comité (réunions mensuelles avec les Directeurs de branches) pour expliquer les évolutions notables des indicateurs techniques et restituer les conclusions de nouvelles études;
+
+Au fil du temps, vous connaîtrez les projets autour de l’Auto, les résultats techniques, tout comme les enjeux de qualité de service.
+
+Votre profil
+
+Au-delà des prérequis habituels d’une bonne maitrise des outils (langage SAS, Microsoft Office) et des méthodes statistiques/actuarielles, vous disposez d’une première expérience dans le domaine assurantiel. La connaissance du Machine Learning sera vivement appréciée;
+
+Vous savez vulgariser des concepts techniques et être très à l’aise pour prendre la parole en public (notamment auprès d’un public non technique);
+
+Vous êtes curieux notamment pour comprendre les mécanismes à l’œuvre sur un parcours sinistres;
+
+Vous disposez d' un excellent sens relationnel;
+
+Vous faites preuve d'écoute et de compréhension des besoins, d'analyse, de créativité, de pédagogie, de la mise en perspectives et de rigueur;
+
+Le poste est à pourvoir au sein du pôle Sinistres Auto, Corporel, Recours et Fraude (onze collaborateurs dont un manager) au sein du service Data Analytics & Performance (trentaine de collaborateurs aux profils data scientist, statisticiens & actuaires).
+
+Pourquoi nous rejoindre ?
+
+Nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs ! Les avantages que nous proposons à nos salariés sont nombreux.
+
+Nous choisir, c’est bénéficier par exemple
+
+ D’un package de rémunération complet comprenant un salaire fixe, un complément de rémunération variable, des primes, de la participation et de l’intéressement, la possibilité d’acquérir des actions AXA, ou encore des solutions d’épargne avantageuses ; 
+ D’un cadre de travail flexible jusqu’à 3 jours de télétravail possible par semaine (selon profil du poste), des tickets restaurant pour les jours télétravaillés ou encore une participation à l’achat d’un écran ou fauteuil ergonomique ; 
+ D’une politique visant à concilier vie personnelle et vie professionnelle avec 28 jours de congés payés, entre 14 et 16 RTT selon les années, des formules de travail à temps partiel ou encore des jours d’absence rémunérées pour la rentrée scolaire ou un déménagement par exemple ; 
+ De la possibilité de s’engager pour une cause qui vous tient à cœur grâce à nos associations telles que AXA Atout Cœur, AXA Compétences Solidaires ou encore AXA Prévention ; 
+ Et bien plus encore ! Perspectives de développement des compétences et de carrières immenses, CE, conciergerie, offres privilèges, soutien en cas d’épreuve personnelle…On s’arrête là, la liste est longue ! 
+
+Votre environnement de travail
+
+Notre raison d’être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte dans + de 50 pays. Accompagner près de 95 millions de clients à chaque étape de leur vie, une mission qui donne le sourire et envie de se lever le matin à nos employés et agents (+ de 145 000 dans le monde !)
+
+Chez AXA, nous sommes riches de nos singularités et accueillons tous les profils dans leur diversité. Au-delà de mener une politique inclusive engagée , nous agissons au quotidien en tant qu’employeur citoyen et responsable pour des causes sociétales & environnementales. Ces ambitions vous parlent ? Alors rejoignez un des leaders de l’assurance et venez changer le monde avec nous !
+
+Présente sur l'ensemble du territoire, AXA France se distingue comme la filiale la plus importante du Groupe en termes de chiffre d'affaires et d'effectifs. Leader sur les marchés de l'assurance, de la santé et de la prévoyance, l'entreprise offre à ses équipes un cadre de travail moderne et agréable en 'smartworking'.
+
+Vous hésitez encore ? Sachez que nous avons conçu un dispositif d'intégration baptisé 'Welcome@AXA' pour accompagner vos premiers pas parmi nous avec attention. En lien avec nos engagements, nous célébrons chaque arrivée en agissant en faveur de la reforestation mondiale depuis 2020, nous plantons un arbre pour chaque recrutement. Alors, prêt à postuler ?

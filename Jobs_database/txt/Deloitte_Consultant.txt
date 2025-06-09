@@ -1,0 +1,61 @@
+Deloitte
+Consultant Risk Data Analyst / Data Scientist (H/F) 
+La Défense, Île-de-France, France
+https://www.linkedin.com/jobs/view/4159724799/?refId=7ad62449-0017-404d-83af-f33dfa49b481&trackingId=Yp3KBD5zRhiFuMo9%2FHL%2FGQ%3D%3D
+
+
+Analytique · Analytique de données · SAS (logiciel) · Science des données · Banque · Gestion des risques · Gestion des risques d’entreprise · Missions chrétiennes · Virtualisation · Virtualisation de centres de données
+
+Rejoindre Deloitte, c'est dire oui à une expérience qui a du sens, celle où les rencontres et les missions vous poussent à grandir chaque jour. C’est évoluer dans un environnement de travail fondé sur la confiance, la transmission et l’intelligence collective pour construire l’avenir de nos clients. Un avenir que nous voulons plus responsable, plus durable et respectueux de l’environnement en prenant des initiatives concrètes à notre échelle. Nous rejoindre, c’est aussi dire oui à une entreprise Great Place to Work, attachée au bien-être, et à l’inclusion sans distinction de nos collaborateurs.
+
+Et vous, prêts à dire #ISayYes à votre futur chez Deloitte ?
+
+La complexité croissante de l'environnement des systèmes d'information dans un contexte de digitalisation des métiers, d'une flexibilité et d'une adaptabilité accrue, et de profondes avancées technologiques, impose un recours à des compétences pointues en analytics pour nos missions de gestion des risques.
+
+Dans une dynamique de croissance constante, nous souhaitons renforcer nos équipes et nos solutions en recrutant des consultants expérimentés désireux d'intégrer une équipe motivée, professionnelle et intervenant auprès d'entreprises prestigieuses.
+
+Vous participerez à des missions variées visant à accompagner nos clients, privés ou organismes publics, dans les différentes disciplines et métiers de la gestion des risques, en apportant vos compétences en analytics, en data mining, en business intelligence, en statistiques, en intelligence artificielle et en modélisation.
+
+Quel sera votre rôle dans la #TeamDeloitte ?
+
+Data analytics et data mining dans le cadre de diagnostics opérationnels et financiers pour l'ensemble des secteurs d'activité ;
+Audit and control analytics : mise en oeuvre de techniques avancées d'analyse de données en remplacement des diligences traditionnelles d'audit ;
+Prédictions et modélisations, sur des sujets réglementaires ou métiers financiers (ex : quantification, risques de crédit...), mais également sur des missions opérationnelles (ex : prévision des ventes, prévision des risques projets...) ;
+Data visualisation : mise en oeuvre de tableaux de bords et d'outils d'analyse exploratoire sur les données risque de nos clients ;
+Conception de solutions technologiques adaptées aux besoins de nos clients et missions, sous l'angle « data » : structuration, architecture, modélisation, moteur d'analyse, intégration, expérience utilisateur.
+
+
+Compétences recherchées :
+
+Vous disposez de compétences parmi les éléments suivants, que vous souhaitez développer sur nos différents projets :
+
+Bases de données: SQL Server for windows, PostGreSQL, MySQL, MongoDB
+ETL: SSIS, Talend, Informatica
+Big Data : Hadoop, Spark, Hive, Hortonworks HDP, Cloudera
+Programmation : SQL, SAS, R, SPSS, Python, C#, Java
+Statistiques
+Machine learning
+Visualisation : QlikView, QlikSense, Tableau, PowerBI, D3.js
+Data virtualization
+
+
+Votre parcours :
+
+En rejoignant Deloitte, vous aurez l'opportunité de développer un set de compétences, partagées avec notre réseau international, et structurées autour des dimensions suivantes : leadership, métier et spécialité. Grâce aux missions variées auxquelles vous participerez et au programme de formations proposé, vous pourrez renforcer progressivement ces compétences, en acquérir de nouvelles et progresser ainsi au sein de notre firme.
+
+Et si c’était vous ?
+
+De formation supérieure (école d'ingénieurs ou université), idéalement complétée par un cursus suivi à l'étranger dans un pays anglophone, vous avez une première expérience réussie au sein d'un cabinet de conseil ou d'une grande société dans une des disciplines analytics ou data science.
+Vous avez participé ou géré des projets d'envergure dans les domaines de la gestion, l'analyse et l'interprétation des données.
+Dynamique et entreprenant(e), vous avez envie de vous impliquer activement dans le développement d'offres de service.
+Vous avez la capacité de travailler en équipe pluridisciplinaire et une réelle appétence pour l'analyse des données, les systèmes d'information, les problématiques métier et la gestion des risques.
+Vous avez l'habitude d'encadrer des missions et avez développé des qualités managériales.
+Autonome, dynamique et doté(e) de très bonnes qualités relationnelles, vous avez un goût affirmé pour la relation client et les missions d'audit et de conseil.
+Vous avez un souci constant de développer vos connaissances et de mettre votre compétence au service des autres.
+Votre rigueur, votre sens relationnel et vos capacités rédactionnelles contribueront à l'excellence de notre service auprès des clients.
+La maîtrise de l'anglais oral et écrit est nécessaire.
+
+
+Poste basé à La Défense.
+
+#ALLIN : tous les candidats ont leur place chez Deloitte. Nous croyons en un environnement inclusif dans lequel les personnes se sentent impliquées, respectées, valorisées, et capables d’apporter leur « soi authentique ». La lutte contre toute forme de discrimination, l’égalité des chances, le respect et la mise en valeur de la diversité sont les pierres angulaires de notre politique RH. Ainsi, toutes les candidatures sans aucune distinction (âge, handicap, sexe, nationalité, religion, orientation sexuelle…) ont leur place dans notre processus de recrutement.

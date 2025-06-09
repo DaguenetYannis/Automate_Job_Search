@@ -1,0 +1,85 @@
+ODDO BHF
+Data Analytics Analyst (H/F) 
+Paris, Île-de-France
+https://www.linkedin.com/jobs/view/4227282895/?refId=ea06bcd2-4a4c-448a-9188-e4ffb4aa016f&trackingId=cpUKpdBzSWmbwewCXs0rQQ%3D%3D
+
+Analytique · Analytique de données · Communication · Compétences analytiques · Compétences interpersonnelles · SAS (logiciel) · Science des données · Statistiques · Allemand · Indicateurs clés de performance
+
+The Data & Digital Solutions team is at the heart of the Transformation and Development department aiming at accelerating the data, CRM and digital strategic transformation of the group in close cooperation with IT, businesses and operations teams. Within the Data & Digital Solutions team, you report to the Head of Analytics Transformation & Strategy. Your mission is to convert raw data into actionable insights to support business growth. You will play a key role in the ongoing analytics transformation by being an ambassador of business acculturation. You will work closely with cross-functional teams incl. business experts and IT. 
+
+Your missions will consist in:
+
+
+Customer Experience Hub:
+Built a comprehensive understanding of client behavior and needs working closely with business, CRM, but also marketing. 
+Derive customer insights using data such as client static data, product data, web analytic data , customer feedbacks or CRM data. 
+Support the development of personas and customer journeys based on data.
+Support the optimization of the client experience based on data-driven insights. 
+Develop and establish a monitoring dashboard based on CX specific KPIs 
+
+
+
+
+Drive Analytics Transformation:
+Foster the analytics culture and competencies in the group by supporting the team in conducting workshops and conducting trainings based on a customized curriculum. 
+Collaborate closely with business to help them adopting new analytics capabilities 
+Support change management by acting – internally – as an ambassador of analytics. 
+Stay up-to-date with market trends or evolution of analytics solution
+Support on the implementation of (further) advanced analytics solutions
+Develop an internal network of data / analytics experts 
+Contribute and enhance the data analytics community and actively support the team with their communication strategy
+
+
+
+
+Develop Data Analytics Dashboards & Reports:
+Collaborate with business to help them creating their own Power Bi dashboards and reports 
+Offer guidance on best practices and optimal use of data in general but also analytics to foster data-driven decisions and the derivation of actionable insights
+Identify opportunities for innovation and improvements 
+Foster collaboration between different departments such as marketing, sales, and customer service to leverage initiatives by synergies
+Leverage, promote & ensure client Data quality
+Creation of a Knowledge Hub composed of “best practice”, such as example dashboards & reports, standard set of KPIs, FAQs etc. 
+
+
+
+
+What can you expect?
+
+
+
+Support the strategic technological development of the group 
+Be an active part of the digital, particularly the analytical transformation
+Work in an international, diverse and dynamic environment
+Work in collaboration with many experts of our different businesses, corporate functions and IT Teams
+Be part of a young, very engaged and dynamic team located in France and Germany working on groupwide transformation projects with direct exposure to management. 
+Be recognized as an expert for data and data analytics.
+
+
+
+
+Your profile
+
+
+
+Completed university studies in natural science, computer or engineering science or economics with specialization in strategy, consulting or finance
+1+ year of relevant working experience in Data Science / Data Analytics and Finance incl. practical experiences in data analytics, SQL or programming (e.g. C#, Python, R)
+Initial experience in project work would be an advantage
+Good understanding of the Banking & Finance sector
+Digital awareness and interest in digitalization in the financial industry
+Passion to analyze data and to foster the digital transformation by actively contribution to building a data culture
+Curiosity, rigor, adaptability, proactivity, autonomy, good interpersonal skills, sense of service and teamwork as well as willingness to learn
+Good communication skills with both business and technical stakeholders.
+Very good knowledge of English and knowledge either in French or German
+
+
+
+
+Why ODDO BHF?
+
+
+
+ODDO BHF is active in four businesses: Private Wealth Management, Asset Management, Corporates & Markets and Asset servicing. We are fortunate to have more than 60,000 clients, institutional investors, companies, distribution partners and large private clients whose financial assets we advise, manage, and invest for a total amount of 142 billion euros. Our mission is to grow these assets through our four businesses.
+European roots, entrepreneurial spirit and wide range of expertise: these key assets enable us to offer unique professional experiences through a variety of career paths and multiple opportunities for mobility across Europe.
+
+
+This position is open to people with disabilities. We will support you during the recruitment process and once you have been recruited, to adapt and/or facilitate your life within the company. Do not hesitate to ask questions during the HR interview.

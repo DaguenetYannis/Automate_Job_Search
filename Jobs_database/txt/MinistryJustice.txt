@@ -1,0 +1,91 @@
+Ministère de la Justice
+DATA ANALYST F/H 
+35 rue de la Gare, 75019 Paris. Ville de Paris, Île-de-France, France 
+https://www.linkedin.com/jobs/view/4227202331/?refId=97e9e27a-c019-4642-ae93-99d9b6d1616d&trackingId=Hdxr3rlaR%2FCUNWdKIiBKhg%3D%3D
+Microsoft Excel · Procedural Programming · Base de données SQL · Gestion de projet · Gestion de projet agile · Justice · Stratégie numérique · Transformation informatique · Transformation numérique
+
+Rencontrez l’équipe de recrutement
+Kelly SONEL-EDOUARD
+Greffière - Gestionnaire RH
+
+Tu aimes les données, la Justice et les nouveaux services numériques ? Tu veux mettre ton talent au service de l’intérêt général en aidant les tribunaux à réduire les délais pour les citoyens ?
+Rejoins l'équipe A-JUST ! Au sein du Ministère de la Justice, la création de la direction de programme « Outils numériques de pilotage des juridictions » (DiP A-JUST) s’inscrit dans la trajectoire de pérennisation, au sein des services judiciaires, des outils d’aide à la décision et au pilotage des juridictions conçus par la start up d’Etat A-JUST.
+
+
+Rattachée au directeur des services judiciaires, la direction de programme s’articule autour de 3 domaines d’action stratégique:
+
+
+PRODUITS: la construction et la gestion en mode produits d’outils numériques dédiés au pilotage des juridictions
+DATA: la valorisation des données de pilotage (activité et effectifs) présentes dans ces outils ou dans d’autres applicatifs, dans une logique de mutualisation opérationnelle
+ACCOMPAGNEMENT: la formation et l’accompagnement à la transformation des pratiques de pilotage des équipes de direction par l’usage de ces produits numériques ainsi mis en cohérence.
+
+
+La DiP A-JUST fonctionne selon la méthodologie des start up d’Etat:
+
+
+équipe intégrant l’ensemble des compétences nécessaires à la construction, la gestion, le déploiement et la valorisation d’outils numériques, alliant compétences métier (fonctionnement des juridictions), techniques et d’accompagnement au changement.
+application des principes généraux du « mode produit »: les utilisateurs et la résolution de leurs problèmes sont au centre de toute décision, les évolutions fonctionnent par boucles d'itérations rapides avec un droit à l'erreur, l'équipe est autonome dans les choix qui impactent le produit et pour interagir avec les utilisateurs (notamment, pas de séparation MOE/MOA, c’est-à-dire entre conception et réalisation) : elle est à ce titre redevable de son action auprès d’une gouvernance impliquant les utilisateurs.
+respect de la finalité des produits en adéquation avec les enjeux de la politique prioritaire de réduction des délais de justice, pilotage par l’impact.
+
+
+Composition de l'équipe
+
+
+
+1 directeur de projet magistrat
+1 coach/PO, responsable data
+1 expert métier et outils (recrutement en cours)
+1 directeur technique (recrutement en cours)
+3 développeurs informatiques
+1 UX designer
+2 chargés de déploiement – support utilisateurs
+1 data analyst en cours de recrutement: toi ?
+
+
+Descriptif du poste
+
+
+
+Le contrat : Emploi accessible aux personnes en situation de handicap. Rémunération envisagée entre 16 250 et 22 500€ bruts annuels pour un temps partiel, en fonction de l'expérience.
+
+
+Ta mission : Tu contribueras au processus d’amélioration continue de la donnée opérationnelle de pilotage afin de permettre aux juridictions de disposer d’une vision la plus précise, récente et exploitable possible de leur activité. Tu travailleras à diversifier et fiabiliser les sources de données, en automatiser la collecte et accompagner les acteurs de terrain dans la compréhension, l’analyse et l’utilisation des données mises à leur disposition dans les outils de la DiP A-JUST afin de faciliter leurs prises de décisions, ainsi éclairées par l’impact.
+
+
+
+Au quotidien, en lien avec le responsable data, la mission consiste à :
+améliorer les algorithmes de pré-alimentation des outils du programme en données d’activité des juridictions
+analyser les bases statistiques disponibles pour créer des requêtes permettant de collecter les données manquantes
+œuvrer à la mise à disposition des juridictions de ces données pour une exploitation opérationnelle en conditions de pilotage
+contribuer à l’amélioration des outils et modes de restitution de la donnée pour ses différents utilisateurs
+échanger avec les juridictions et services data du ministère pour favoriser le partage, la compréhension, l’amélioration et l’exploitation des données disponibles.
+
+
+Profil recherché
+
+Connaissances
+
+Gestion et requêtage de bases de données | Structuration de données | Construction d’algorithmes | Analyse logique pour requêter les bases de données selon les processus métier | Construction et analyses de tableaux de bord pour répondre à des besoins utilisateurs | La connaissance du fonctionnement des services judiciaires et/ou des services et outils de la statistique ministérielle serait un vrai plus.
+
+
+Savoir-faire
+
+Capacité d’analyse, en particulier de données chiffrées | Compréhension et analyse des outils et pratiques métier | Capacité de synthèse et qualités rédactionnelles | Capacité à documenter de façon pédagogique les opérations réalisées | Capacité à organiser sa charge de travail Souplesse dans la gestion des priorités
+
+
+Savoir- être
+
+Capacité à travailler en équipe – sens du collectif - gestion de la transversalité | Polyvalence et appétence pour des tâches diversifiées | Capacité d’adaptation à des interlocuteurs issus de milieux professionnels variés (membres de l’équipe) et de tous niveaux hiérarchiques (au sein des juridictions et des services ministériels) | Sens du relationnel et de la pédagogie | Ecoute | Capacité d’initiative/curiosité | Discrétion
+
+
+Outils informatiques
+
+Maîtrise des outils informatiques | Maîtrise avancée d’Excel | Connaissance des outils de gestion, partage et analyse de fichiers XML volumineux | Outils d’écriture d’algorithmes (YML) | Une aisance avec le langage SQL constituerait un atout | La connaissance de GRIST serait un plus.
+
+
+Expérience souhaitée
+
+Minimum 2 ans d’ancienneté dans un poste du secteur public ou privé ayant permis d’acquérir une expérience dans les domaines cités, notamment la compréhension des processus métier et la production ou l’analyse de données. (par ex. dans un service statistique ou de traitement et d’analyse de la donnée opérationnelle).
+
+
+Pour postuler emploi@a-just.fr : envoyer un email avec ton CV, tes motivations, tes disponibilités et tout ce que tu voudras pour nous donner envie de te rencontrer. Nous nous engageons à te répondre avant fin mai en te proposant éventuellement un entretien.
