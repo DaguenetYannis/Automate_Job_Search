@@ -1,3 +1,5 @@
 *.gguf
 API/credentialsGoogleDocs.json
 API/credentialsGoogleSheet.json
+API/credentialsGoogleDocs.json
+API/credentialsGoogleSheet.json
